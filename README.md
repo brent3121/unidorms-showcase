@@ -3,6 +3,8 @@
 
 🌐 [unidorms.ph](https://unidorms.ph) · **Status:** Launching soon (waitlist open, launch pending business registration)
 
+![UniDorms preview](https://brentbuilds.pages.dev/img/unidorms.svg)
+
 > 🔒 **Source code is private.** This repo is a showcase of the product, its features and its architecture.
 
 <!-- screenshot here: landing page -->
