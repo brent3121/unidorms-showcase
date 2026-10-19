@@ -15,7 +15,7 @@
 ## Key features
 - **Listings and search** for dorms near campus
 - **Landlord ID verification** and host reputation
-- **Escrow payments via Xendit**: the first payment claims the room, other payments refund automatically, and payouts need admin approval
+- **Escrow flow designed for launch with Xendit**: the first payment will claim the room, other payments will refund automatically, and payouts will need admin approval
 - **Gemini listing-extraction pipeline** that turns messy Facebook rental posts into clean, structured listings
 - **Admin dashboard** for verification, listings and payout approvals
 - **Email notifications**
